@@ -12,8 +12,9 @@ const config = {
 			strict: true
 		}),
 		paths: {
-			base: '/sorts'
-		}
+			base: process.env.NODE_ENV === 'production' ? '/sorts' : ''
+		},
+		appDir: 'app'
 	},
 	preprocess: vitePreprocess()
 };
