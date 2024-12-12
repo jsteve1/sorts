@@ -13,7 +13,7 @@ A responsive, interactive visualization tool for various sorting algorithms buil
 
 ## Live Demo
 
-Visit the live demo at: https://[your-username].github.io/sort-visualizer/
+Visit the live demo at: https://jsteve1.github.io/sorts/
 
 ## Getting Started
 
